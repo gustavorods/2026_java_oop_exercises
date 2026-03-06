@@ -16,3 +16,6 @@ Within the project, you can run each file individually to test your solutions.
 
 ## License
 This project is licensed under the MIT License.
+
+## Credits
+These exercises were adapted from the classes of Professor *Fabiana A. Rodrigues* at FATEC Zona Leste.
