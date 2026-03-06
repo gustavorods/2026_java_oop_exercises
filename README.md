@@ -8,7 +8,7 @@ Access the ``doc.docx`` file to find the instructions and requirements for each 
 To get started, clone the repository and navigate to the project directory:
 
 ```Bash
-git clone <repository_url> <project_name> 
+git clone https://github.com/gustavorods/2026_java_oop_exercises.git <project_name> 
 cd <project_name>
 ```
 ## Usage
